@@ -1,0 +1,25 @@
+{
+  "name": "xietongbianji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "npx y-websocket"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.3.2"
+  },
+  "dependencies": {
+    "quill": "^2.0.2",
+    "y-quill": "^1.0.0",
+    "yjs": "^13.6.18",
+    "y-websocket": "^2.0.3"
+  }
+}
